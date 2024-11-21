@@ -1,0 +1,55 @@
+# Backend Dependencies
+flask==2.1.0
+flask-cors==3.0.10
+python-dotenv==0.19.2
+Werkzeug==2.0.3
+
+# PDF Processing
+PyPDF2==2.0.0
+pdfminer.six==20211012
+
+# NLP and Content Analysis
+spacy==3.2.1
+nltk==3.6.7
+gensim==4.1.2
+
+# Game Generation
+numpy==1.22.1
+scikit-learn==1.0.2
+
+# Game and Animation
+pygame==2.1.2
+phaser-js-python==1.0.0
+p5==0.7.1
+
+# Enhanced PDF Processing
+fitz==0.0.1.dev2
+pymupdf==1.19.6
+
+# AI and NLP Enhancements
+transformers==4.15.0
+torch==1.10.1
+openai==0.27.0
+
+# Interactive Visualization
+plotly==5.5.0
+dash==2.0.0
+
+# Frontend (if using Flask templates)
+jinja2==3.0.3
+
+# Frontend Enhancements
+flask-socketio==5.1.1
+python-socketio==5.5.0
+
+# Additional Dependencies
+pandas==1.4.0
+matplotlib==3.5.1
+networkx==2.6.3
+tqdm==4.62.3
+
+# Static Site Generation
+Frozen-Flask==0.18
+
+# Testing
+pytest==6.2.5
